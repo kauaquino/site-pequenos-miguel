@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(111, 137, 175);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+main a {
+    color: rgb(0, 0, 0);
+}
+main div {
+    display: flex;
+    padding: 10px;
+}
+head {
+    display: flex;
+    padding-left: 20px;
+}
+ul a {
+    text-decoration: none;
+}
